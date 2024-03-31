@@ -42,7 +42,7 @@ int main()
     
     srand(idkn);
     cout << "\t\t\t\t\t\t\t\t\twelcome to the game of bulls and cows ..." << '\n'
-         << "\t\tcan you finnally be our hero and try to guess our really reaaaallyyy difficult number \"its not 1234\" cuz that would be too easy \n";
+         << "\t\tcan you finnally be our hero and try to guess our really reaaaallyyy difficult number \n";
 
     while (true)
     {
